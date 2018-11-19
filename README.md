@@ -2,7 +2,7 @@
 
 ## Child Journeys
 
-Intro to project here
+Understanding the journeys children take between services so we can understand their needs and better target the right level of service. This research was carried out with CWAC and Wigan Local Authorities.
 
 Key documents:
 
@@ -13,6 +13,9 @@ Key documents:
  * [System Maps and Data Diagnostics](./Child-Journeys/CHILD&#32;JOURNEYS_System&#32;Maps&#32;and&#32;Data&#32;Diagnostics_DRAFT.pdf)
 
 ## Family Context
+
+Understanding the needs, assets and risks inherent in a family so we can better support children, for example avoiding unnecessary escalation into care. This research was carried out with Leeds and Stockport Local Authorities.
+
 
 Key documents:
 
